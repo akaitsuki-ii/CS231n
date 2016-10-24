@@ -1,0 +1,5 @@
+coco_captioning/*
+tiny-imagenet-100-A*
+tiny-imagenet-100-B*
+tiny-100-A-pretrained/*
+pretrained_model.h5
